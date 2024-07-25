@@ -1,6 +1,6 @@
 # a-simple-calculator
 
-This is a simple calculator made by me
+This is a simple calculator made by me using HTML, CSS and Javascript
 
 Reference:
 
